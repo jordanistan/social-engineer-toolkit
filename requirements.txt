@@ -10,3 +10,4 @@ pillow
 # The pymssql project has been discontinued.
 pymssql<3.0
 werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
